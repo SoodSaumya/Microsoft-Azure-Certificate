@@ -1,0 +1,1 @@
+The attached video is an example of one of the many AI solutions which we were taught to develop using Microsoft Azure during our workshop. Here language conversion(Hindi to French in this case) in speech is being demonstrated.
